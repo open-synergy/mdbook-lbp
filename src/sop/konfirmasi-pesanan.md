@@ -1,3 +1,3 @@
 # Konsirmasi Pesanan
 
-![](../../img/konfirmasi-sales-order.png)
+![](../img/konfirmasi-sales-order.png)

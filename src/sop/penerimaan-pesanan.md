@@ -1,6 +1,6 @@
 # Penerimaan Pesanan
 
-![](../../img/penerimaan-pesanan.png)
+![](../img/penerimaan-pesanan.png)
 
 ### A. Buat Sales Order
 
