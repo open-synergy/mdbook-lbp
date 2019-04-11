@@ -10,3 +10,4 @@
     - [Pembuatan Surat Jalan dan Faktur Penjualan](./sop/administrasi-pesanan.md)
     - [Pencatatan Hasil Produksi](./sop/pencatatan-hasil-produksi.md)
     - [Stok Opname](./sop/stok-opname.md)
+    - [Penerimaan Menggunakan Giro](./sop/penerimaan-giro.md)
