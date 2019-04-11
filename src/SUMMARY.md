@@ -7,3 +7,4 @@
     - [Konfirmasi Pesanan](./sop/konfirmasi-pesanan.md)
     - [Memuat Barang Ke Truk](./sop/memuat.md)
     - [Pembuatan Surat Jalan dan Faktur Penjualan](./sop/administrasi-pesanan.md)
+    - [Pencatatan Hasil Produksi](./sop/pencatatan-hasil-produksi.md)
