@@ -2,6 +2,9 @@
 
 - [Instruksi Kerja Tambahan](./instruksi.md)
     - [Mencetak Perintah Pengambilan](./instruksi/cetak-perintah-pengambilan.md)
+    - [Mencetak Perintah Muat Barang](./instruksi/cetak-perintah-muat-barang.md)
+    - [Mencetak Surat Jalan](./instruksi/cetak-surat-jalan.md)
+    - [Mencetak Faktur Penjualan](./instruksi/cetak-fakur-penjualan.md)
 - [SOP](./sop.md)
     - [Penjualan](./sop-penjualan.md)
         - [Mendata Konsumen](./sop/mendata-konsumen.md)
