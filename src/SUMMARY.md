@@ -16,6 +16,7 @@
         - [Pencatatan Hasil Produksi](./sop/pencatatan-hasil-produksi.md)
     - [Gudang](./sop-gudang.md)   
         - [Stok Opname](./sop/stok-opname.md)
+        - [Pencatatan Hasil Pengemasan](./sop/pencatatan-hasil-pengemasan.md)
     - [Keuangan](./sop-keuangan.md)
         - [Penerimaan Menggunakan Giro](./sop/penerimaan-giro.md)
         - [Penerimaan Menggunakan Cek](./sop/penerimaan-cek.md)
